@@ -1,11 +1,7 @@
 
 
 def isTree(algo) -> bool:
-    # if not lsit -> False
-    # if len !=3 -> False
-    # recursion
-    # -> True
-    pass
+    
 
 if __name__ == "__main__":
 
